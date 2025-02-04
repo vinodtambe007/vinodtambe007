@@ -1,4 +1,4 @@
-![logo](https://github.com/vinodtambe007/vinodtambe007/blob/main/Github%20Banner.png)
+![logo](https://github.com/vinodtambe007/vinodtambe007/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Vinod Tambe</h1>
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
 
